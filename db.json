@@ -147,7 +147,7 @@
       "maxTenure": 0,
       "inStock": true,
       "inPreOrder": false,
-   "filterName": "Televisions",
+   "filterSlug": "Televisions",
   "productImages":
   "//p.rmjo.in/productSquare/eztgdt5u"
    },
@@ -175,7 +175,7 @@
       "maxTenure": 0,
       "inStock": true,
       "inPreOrder": false,
-   "filterName": "Televisions",
+   "filterSlug": "Televisions",
    "productImages":
   "//p.rmjo.in/productSquare/6x7es84d"
    },
@@ -203,7 +203,7 @@
       "maxTenure": 0,
       "inStock": true,
       "inPreOrder": false,
-    "filterName": "Televisions",
+    "filterSlug": "Televisions",
    "productImages":
     "//p.rmjo.in/productSquare/e2nc1yzg"
    },
@@ -231,7 +231,7 @@
       "maxTenure": 0,
       "inStock": true,
       "inPreOrder": false,
-     "filterName": "Televisions",
+     "filterSlug": "Televisions",
   "productImages":"//p.rmjo.in/productSquare/h62xocvl"
    },
    {
@@ -258,7 +258,7 @@
       "maxTenure": 0,
       "inStock": false,
       "inPreOrder": false,
-  "filterName": "Televisions",
+  "filterSlug": "Televisions",
    "productImages": "//p.rmjo.in/productSquare/4bc5eken"
   },
     {
